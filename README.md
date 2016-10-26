@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ogencoglu/MyData2016/blob/master/images/banner.png" height="150" ></a>
+<img src="https://github.com/ogencoglu/TurkuTurbulence/blob/master/images/banner.png" height="150" ></a>
 </p>
 
 Turbulence - Month #1 - Artificial Intelligence (AI)
