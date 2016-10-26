@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/ogencoglu/TurkuTurbulence/blob/master/images/banner.png" height="150" ></a>
+<img src="https://github.com/ogencoglu/TurkuTurbulence/blob/master/images/banner.png" height="250" ></a>
 </p>
 
 Turbulence - Month #1 - Artificial Intelligence (AI)
@@ -20,7 +20,7 @@ Koulu Brewery in central Turku.
 Contents:
 -------
 
-Month #1 brings you Oguzhan Gencoglu from Tampere University and Top Data Science start-up. He'll giving us a whirlwind tour of the field of Artificial Intelligence (AI), the connections with data and privacy, what we can expect to see in the future from AI and how it might be applied - all the while bringing up some of the ethical issues with AI we'll need to face as a society.
+Contents will appear here soon!
 
 Speaker:
 -------
