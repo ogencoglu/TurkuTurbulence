@@ -25,7 +25,7 @@ Contents will appear here soon!
 Speaker:
 -------
 
-Oguzhan (Ouz) Gencoglu is a curious data scientist and artificial intelligence researcher living in Finland. Over the years, he had the chance to study and conduct research in several universities in different countries such as Turkey, U.S.A., Denmark, Czech Republic and Finland; he is currently working at Tampere University as a researcher and teacher in the field. He used to teach machines to recognize objects and scenes from images or sounds. Nowadays, his machines are learning to predict flu epidemics. He likes data and he loves clean data, and so he co-founded 'Top Data Science' - a start-up operating out of Helsinki.
+Oguzhan (Ouz) Gencoglu is a curious data scientist and artificial intelligence researcher living in Finland. Over the years, he had the chance to study and conduct research in several universities in different countries such as Turkey, U.S.A., Denmark, Czech Republic and Finland; he is currently working at Tampere University of Technology as a researcher and teacher in the field. He used to teach machines to recognize objects and scenes from images or sounds. Nowadays, his machines are learning to predict flu epidemics. He likes data and he loves clean data, and so he co-founded 'Top Data Science' - a start-up operating out of Helsinki.
 http://topdatascience.com/
 
 Links
