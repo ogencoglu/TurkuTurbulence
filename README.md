@@ -45,3 +45,7 @@ License
 Contact
 ---------------
 Oguzhan (Ouz) Gencoglu, oguzhan.gencoglu@tut.fi
+
+<p align="center">
+<img src="https://github.com/ogencoglu/TurkuTurbulence/blob/master/images/Turbulence_m1.jpg" height="250" ></a>
+</p>
