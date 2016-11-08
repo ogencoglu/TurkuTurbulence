@@ -20,7 +20,11 @@ Koulu Brewery in central Turku.
 Contents:
 -------
 
-Contents will appear here soon!
+* What Exactly Is AI / Machine Learning?
+* What Can Possibly Happen?
+* But, How Do These Work?
+* What Can Be Done?
+* Where Are We Heading?
 
 Speaker:
 -------
